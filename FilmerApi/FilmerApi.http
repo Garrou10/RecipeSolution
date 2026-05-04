@@ -1,0 +1,6 @@
+@FilmerApi_HostAddress = http://localhost:5172
+
+GET {{FilmerApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

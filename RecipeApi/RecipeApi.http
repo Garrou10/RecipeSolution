@@ -1,0 +1,7 @@
+@RecipeApi_HostAddress = https://localhost:7103
+
+
+GET {{RecipeApi_HostAddress}}/api/recipes
+Accept: application/json
+
+###
